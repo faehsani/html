@@ -1,0 +1,25 @@
+.nav-menu {
+    background-color: darkslategray;
+    line-height: 2em;
+}
+
+.nav-menu a {
+    font: menu;
+    color: ghostwhite;
+}
+
+h1 {
+    color: darkorange;
+    font-style: italic;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+.video {
+    width: 740px;
+    height: 420px;
+}
